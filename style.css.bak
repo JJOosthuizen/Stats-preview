@@ -104,7 +104,7 @@ p {
 }
 
 @media (min-width: 992px){
-    .info{
+    .stats ul li{
         display: inline-block;
     }
     .stats ul {
@@ -120,7 +120,7 @@ ul {
     list-style: none;
 }
 
-.info {
+li {
     padding-bottom: 1em;
 }
 
@@ -128,7 +128,7 @@ h2 {
     font-size: 1.25rem;
 }
 
-.info p{
+li p{
     font-size: 0.75em;
     text-transform: uppercase;
 }

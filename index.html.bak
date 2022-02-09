@@ -39,14 +39,14 @@
         </div>
         <div class="stats">
           <ul>
-            <li class="info">
+            <li>
               <h2>10k+</h2>
               <p>companies</p>
             </li>
-            <li class="info">
+            <li>
               <h2>314</h2>
               <p>templates</p>
-            </li class="info">
+            </li>
             <li>
               <h2>12m+</h2>
               <p>queries</p>
