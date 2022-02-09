@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://joos-stats-preview.netlify.app/)
 ## My process
 
 I first started creating the smaller screen size UI and moved on over to the bigger size.
